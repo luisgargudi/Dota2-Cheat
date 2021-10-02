@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: overlay.overlay
+Class-Path: GH_Tools_1.0.0.jar javafx-swt.jar javafx.base.jar javafx.con
+ trols.jar javafx.fxml.jar javafx.graphics.jar javafx.media.jar javafx.s
+ wing.jar javafx.web.jar jna-5.6.0.jar jna-platform-5.5.0.jar memory-man
+ ager.jar fastutil-8.4.0.jar
+
